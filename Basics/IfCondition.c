@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/**
+ * program to check the age limit using if statement
+ *
+ * Return: always 0
+ */
 int main()
 {
     int age;
